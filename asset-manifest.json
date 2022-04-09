@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pizza-Rreact-Challenge/static/css/main.ee41bc8b.css",
+    "main.js": "/Pizza-Rreact-Challenge/static/js/main.ff725da1.js",
+    "index.html": "/Pizza-Rreact-Challenge/index.html",
+    "main.ee41bc8b.css.map": "/Pizza-Rreact-Challenge/static/css/main.ee41bc8b.css.map",
+    "main.ff725da1.js.map": "/Pizza-Rreact-Challenge/static/js/main.ff725da1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee41bc8b.css",
+    "static/js/main.ff725da1.js"
+  ]
+}
